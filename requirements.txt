@@ -1,0 +1,2 @@
+browser-use
+langchain-google-genai
